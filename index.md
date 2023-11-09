@@ -5,27 +5,21 @@
 ### Learn About My Projects
 
 #### [Unlocking the Power of DoorDash Sales Analytics with Excel](https://www.linkedin.com/pulse/unlocking-power-doordash-sales-analytics-excel-andy-chang/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+[<img src="images/DoorDash Project.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+🍔 Ever wondered how much people spend on food delivery services like DoorDash? 🤔 
 
 
 ---
 #### [Massachusetts Education Project](https://www.loom.com/share/bb73f900c51d415e890c3817bf3a7142?sid=8fdc84fb-832d-4566-86e2-cc69ec041a38)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+[<img src="images/Massachusetts Education.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+In this video, I take you on a journey through the Massachusetts public school dataset, uncovering valuable insights and visualizing data to gain a deeper understanding of our education system. 📈🔍
 
 ---
 
-### Category Name 2
+### List of The Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Unlocking the Power of DoorDash Sales Analytics with Excel](http://example.com/](https://www.linkedin.com/pulse/unlocking-power-doordash-sales-analytics-excel-andy-chang/)
+- [Massachusetts Education Project](https://www.linkedin.com/feed/update/urn:li:activity:7126176197889191936/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7126176197889191936%29)
 
 ---
 

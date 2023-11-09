@@ -18,7 +18,7 @@ In this video, I take you on a journey through the Massachusetts public school d
 
 ### List of The Projects
 
-- [Unlocking the Power of DoorDash Sales Analytics with Excel](http://example.com/](https://www.linkedin.com/pulse/unlocking-power-doordash-sales-analytics-excel-andy-chang/)
+- [Unlocking the Power of DoorDash Sales Analytics with Excel](https://www.linkedin.com/pulse/unlocking-power-doordash-sales-analytics-excel-andy-chang/)
 - [Massachusetts Education Project](https://www.linkedin.com/feed/update/urn:li:activity:7126176197889191936/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7126176197889191936%29)
 
 ---

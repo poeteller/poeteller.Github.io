@@ -17,7 +17,7 @@ In this video, I take you on a journey through the *Massachusetts public school 
 
 
 ---
-#### [World Bank SQL Financial Dataset Deep Dive](https://www.loom.com/share/bb73f900c51d415e890c3817bf3a7142?sid=8fdc84fb-832d-4566-86e2-cc69ec041a38)
+#### [World Bank SQL Financial Dataset Deep Dive](https://www.linkedin.com/pulse/unveiling-financial-patterns-deep-dive-world-bank-loan-yen-ti-chang-vhgzc/?trackingId=eRXCR8sKRHylTz5tL7S4YA%3D%3D)
 [<img src="images/SQL Banking Project.png?raw=true"/>](https://www.linkedin.com/pulse/unveiling-financial-patterns-deep-dive-world-bank-loan-yen-ti-chang-vhgzc/?trackingId=eRXCR8sKRHylTz5tL7S4YA%3D%3D)
 Executed comprehensive SQL data analysis project leveraging advanced querying techniques to extract insights from a large banking dataset provided by the World Bank! 🏦
 

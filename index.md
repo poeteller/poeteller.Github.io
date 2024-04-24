@@ -4,7 +4,7 @@
 ### Learn About My Projects
 
 #### [NBA Insights with Tableau Sports Analytics](https://www.linkedin.com/pulse/game-unlocking-nba-insights-tableau-sports-analytics-andy-chang-ghhsc/?trackingId=2GzTyIlXSN6fbxl%2BHLgq3A%3D%3D)
-[<img src="images/NBA Analytics.jpg?raw=true"/>](https://www.linkedin.com/pulse/game-unlocking-nba-insights-tableau-sports-analytics-andy-chang-ghhsc/?trackingId=2GzTyIlXSN6fbxl%2BHLgq3A%3D%3D)
+[<img src="images/NBA Analytics.png?raw=true"/>](https://www.linkedin.com/pulse/game-unlocking-nba-insights-tableau-sports-analytics-andy-chang-ghhsc/?trackingId=2GzTyIlXSN6fbxl%2BHLgq3A%3D%3D)
 Excited to uncover the secrets of NBA player stats? Ready to craft your dream NBA all-star team? Join me on my latest Tableau analysis, where I break down the numbers and visualize the performance of every NBA player! 🏀
 
 

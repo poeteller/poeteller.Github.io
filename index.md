@@ -41,6 +41,7 @@ Let's dive in with the power of **Excel**!
 - [Massachusetts Education Project](https://www.linkedin.com/feed/update/urn:li:activity:7126176197889191936/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7126176197889191936%29)
 - [World Bank SQL Financial Dataset Deep Dive](https://www.linkedin.com/pulse/unveiling-financial-patterns-deep-dive-world-bank-loan-yen-ti-chang-vhgzc/?trackingId=eRXCR8sKRHylTz5tL7S4YA%3D%3D)
 - [Equilibrium in Healthcare with SQL](https://www.linkedin.com/pulse/equilibrium-healthcare-optimizing-patient-records-hospital-andy-chang-qnrtc/)
+- [NBA Sports Analytics with Tableau](https://www.linkedin.com/pulse/game-unlocking-nba-insights-tableau-sports-analytics-andy-chang-ghhsc/?trackingId=2GzTyIlXSN6fbxl%2BHLgq3A%3D%3D)
 
 ---
 

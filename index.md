@@ -3,6 +3,12 @@
 ---
 ### Learn About My Projects
 
+#### [Digging Some Mines With Python](https://www.linkedin.com/pulse/digging-some-mines-python-andy-chang-z0cac/?trackingId=%2F5Qz67rVSkufhIrvSm9pTQ%3D%3D)
+[<img src="images/Digging Some Mines With Python.jpg?raw=true"/>](https://www.linkedin.com/pulse/digging-some-mines-python-andy-chang-z0cac/?trackingId=%2F5Qz67rVSkufhIrvSm9pTQ%3D%3D)
+Let's dive into the fascinating world of mining data! Together, we'll explore the detailed processes of mineral extraction, optimize chemical applications, and uncover the complex relationships between key variables in the mining industry. 🪨🔍⛏️
+
+
+---
 #### [NBA Insights with Tableau Sports Analytics](https://www.linkedin.com/pulse/game-unlocking-nba-insights-tableau-sports-analytics-andy-chang-ghhsc/?trackingId=2GzTyIlXSN6fbxl%2BHLgq3A%3D%3D)
 [<img src="images/NBA Analytics.png?raw=true"/>](https://www.linkedin.com/pulse/game-unlocking-nba-insights-tableau-sports-analytics-andy-chang-ghhsc/?trackingId=2GzTyIlXSN6fbxl%2BHLgq3A%3D%3D)
 Excited to uncover the secrets of NBA player stats? Ready to craft your dream NBA all-star team? Join me on my latest Tableau analysis, where I break down the numbers and visualize the performance of every NBA player! 🏀
@@ -42,6 +48,7 @@ Let's dive in with the power of **Excel**!
 - [World Bank SQL Financial Dataset Deep Dive](https://www.linkedin.com/pulse/unveiling-financial-patterns-deep-dive-world-bank-loan-yen-ti-chang-vhgzc/?trackingId=eRXCR8sKRHylTz5tL7S4YA%3D%3D)
 - [Equilibrium in Healthcare with SQL](https://www.linkedin.com/pulse/equilibrium-healthcare-optimizing-patient-records-hospital-andy-chang-qnrtc/)
 - [NBA Sports Analytics with Tableau](https://www.linkedin.com/pulse/game-unlocking-nba-insights-tableau-sports-analytics-andy-chang-ghhsc/?trackingId=2GzTyIlXSN6fbxl%2BHLgq3A%3D%3D)
+- [Digging Some Mines With Python](https://www.linkedin.com/pulse/digging-some-mines-python-andy-chang-z0cac/?trackingId=FeYJogY2QpW9bie88kkRCA%3D%3D)
 
 ---
 
